@@ -1,0 +1,9 @@
+.header__ask-panel {
+  background-image: url(../../../images/header-rectangle.png);
+  min-height: 369px;
+  width: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}

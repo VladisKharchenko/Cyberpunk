@@ -1,0 +1,11 @@
+.header__logo-button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  margin-right: 36px;
+}
+
+.header__logo-button:last-of-type {
+  margin-right: 0;
+}
