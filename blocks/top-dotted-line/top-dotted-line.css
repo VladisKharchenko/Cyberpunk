@@ -1,0 +1,8 @@
+.top-dotted-line {
+  min-height: 70px;
+  width: 100%;
+  background-image: url(../../images/top-dotted-line.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
