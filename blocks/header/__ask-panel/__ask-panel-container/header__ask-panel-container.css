@@ -1,0 +1,7 @@
+.header__ask-panel-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 70px;
+}

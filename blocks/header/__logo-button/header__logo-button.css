@@ -9,3 +9,8 @@
 .header__logo-button:last-of-type {
   margin-right: 0;
 }
+
+.header__logo-button:hover {
+  opacity: 0.6;
+  transition: opacity 1s linear 0.5s;
+}
